@@ -34,3 +34,4 @@ title('Transfer Function for Hard Clipping Distortion');
 legend('Original Signal', 'Clipped Signal', 'Normalized Clipped Signal');
 grid on;
 hold off;
+dbd
